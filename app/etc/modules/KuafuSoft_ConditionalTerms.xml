@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <KuafuSoft_ConditionalTerms>
+            <active>true</active>
+            <codePool>local</codePool>
+        </KuafuSoft_ConditionalTerms>
+    </modules>
+</config>
